@@ -1,0 +1,13 @@
+{
+  "DESIGN_NAME": "alu8",
+  "VERILOG_FILES": "dir::src/alu8.v",
+  "CLOCK_PORT": "a[0]",
+  "CLOCK_PERIOD": 40,
+  "FP_SIZING": "absolute",
+  "DIE_AREA": "0 0 300 300",
+  "CORE_AREA": "20 20 280 280",
+  "FP_CORE_UTIL": 20,
+  "PL_TARGET_DENSITY": 0.45,
+  "PL_RESIZER_TIMING_OPTIMIZATIONS": 0,
+  "RUN_HEURISTIC_DIODE_INSERTION": 1
+}
