@@ -130,22 +130,13 @@ Primary generated files (included in repo under `reports/`):
 
 ## 8) Visual Evidence
 
-### OpenROAD Layout
-![OpenROAD Layout](docs/images/layout/openroad_layout.png)
-
-### Flow Success / Signoff Log Snapshot
-![Flow Success](docs/images/flow/flow_success.png)
-
-### Reports Listing
-![Reports 1](docs/images/reports/reports_list_1.png)
-![Reports 2](docs/images/reports/reports_list_2.png)
-![Reports 3](docs/images/reports/reports_list_3.png)
-
-### RTL Snapshot
-![RTL Code](docs/images/rtl/rtl_code.png)
-
-### Verification Waveform (GTKWave / VCD)
-![GTKWave Proof](docs/images/verification/gtkwave_vcd_proof.png)
+![Flow Success](IMAGES/Reports/flow_success.png)
+![OpenROAD Layout](IMAGES/Reports/openroad_layout.png)
+![RTL Code](IMAGES/Reports/rtl_code.png)
+![GTKWave Proof](IMAGES/Reports/gtkwave_vcd_proof.png)
+![Reports 1](IMAGES/Reports/reports_list_1.png)
+![Reports 2](IMAGES/Reports/reports_list_2.png)
+![Reports 3](IMAGES/Reports/reports_list_3.png)
 
 ---
 
